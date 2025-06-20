@@ -11,3 +11,6 @@ h2{
     color: dodgerblue;
     font-size:1.5rem;
 }
+body{
+    background-image: url("bg.png");
+}
