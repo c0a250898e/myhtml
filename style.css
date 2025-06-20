@@ -4,8 +4,10 @@ html{
 }
 h1{
     font-size:2rem;
+    color: darkturquoise;
     text-align: center;    
 }
 h2{
+    color: dodgerblue;
     font-size:1.5rem;
 }
